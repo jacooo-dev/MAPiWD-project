@@ -38,6 +38,8 @@ poetry run jupyter notebook
 | Notebook | Opis |
 |----------|------|
 | `01_analiza_danych.ipynb` | Raport 1 - import danych, struktura, pierwsze wizualizacje |
+| `02_preprocessing.ipynb` | Raport 2 - czyszczenie, imputacja, kodowanie, standaryzacja |
+| `03_analiza.ipynb` | Raport 3 - korelacje, selekcja cech, PCA, K-Means |
 
 ## Generowanie raportow
 
